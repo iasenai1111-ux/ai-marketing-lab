@@ -1,0 +1,78 @@
+id,comentario,sentimento,tema,previsto,acertou
+1,Não tenho do que reclamar do preço.,positivo,preço,neutro,False
+6,"O preço foi horrível, não recomendo.",negativo,preço,neutro,False
+8,Não gostei do preço.,negativo,preço,positivo,False
+12,Esperava mais do site.,negativo,site,neutro,False
+20,"Achei que ia ser ruim, mas a entrega foi show.",positivo,entrega,neutro,False
+21,Esperava mais do preço.,negativo,preço,neutro,False
+26,A entrega resolveu meu problema rapidinho.,positivo,entrega,negativo,False
+28,Esperava mais do preço.,negativo,preço,neutro,False
+33,A entrega resolveu meu problema rapidinho.,positivo,entrega,negativo,False
+37,"Achei que ia ser ruim, mas a entrega foi show.",positivo,entrega,neutro,False
+39,Esperava mais da entrega.,negativo,entrega,neutro,False
+42,Não tenho do que reclamar do preço.,positivo,preço,neutro,False
+49,Não gostei da qualidade do produto.,negativo,qualidade,positivo,False
+63,Esperava mais do atendimento.,negativo,atendimento,neutro,False
+64,A entrega não é nada bom.,negativo,entrega,neutro,False
+66,"Achei que ia ser ruim, mas o atendimento foi show.",positivo,atendimento,neutro,False
+76,Não tenho do que reclamar da qualidade do produto.,positivo,qualidade,neutro,False
+78,"A entrega foi horrível, não recomendo.",negativo,entrega,neutro,False
+79,Não gostei do site.,negativo,site,positivo,False
+91,"Achei que ia ser ruim, mas o site foi show.",positivo,site,neutro,False
+93,"Já foi ótimo, hoje o site está uma bagunça.",negativo,site,neutro,False
+95,Não tenho do que reclamar da entrega.,positivo,entrega,neutro,False
+96,Não gostei do site.,negativo,site,positivo,False
+97,"Já foi ótimo, hoje a entrega está uma bagunça.",negativo,entrega,neutro,False
+104,"O preço foi horrível, não recomendo.",negativo,preço,neutro,False
+107,Não tenho do que reclamar do preço.,positivo,preço,neutro,False
+115,Não tenho do que reclamar do atendimento.,positivo,atendimento,neutro,False
+116,Não gostei da entrega.,negativo,entrega,positivo,False
+118,O preço não é nada bom.,negativo,preço,neutro,False
+123,Esperava mais do site.,negativo,site,neutro,False
+131,"Já foi ótimo, hoje o preço está uma bagunça.",negativo,preço,neutro,False
+132,"O site foi horrível, não recomendo.",negativo,site,neutro,False
+134,Não gostei da entrega.,negativo,entrega,positivo,False
+136,"O atendimento foi horrível, não recomendo.",negativo,atendimento,neutro,False
+140,"Achei que ia ser ruim, mas a qualidade do produto foi show.",positivo,qualidade,neutro,False
+145,Não tenho do que reclamar da qualidade do produto.,positivo,qualidade,neutro,False
+152,A entrega resolveu meu problema rapidinho.,positivo,entrega,negativo,False
+154,Não tenho do que reclamar do atendimento.,positivo,atendimento,neutro,False
+155,O site resolveu meu problema rapidinho.,positivo,site,negativo,False
+161,"Já foi ótimo, hoje o atendimento está uma bagunça.",negativo,atendimento,neutro,False
+165,Não gostei da entrega.,negativo,entrega,positivo,False
+167,O preço não é nada bom.,negativo,preço,neutro,False
+169,"Achei que ia ser ruim, mas o preço foi show.",positivo,preço,neutro,False
+170,O preço resolveu meu problema rapidinho.,positivo,preço,negativo,False
+181,A entrega resolveu meu problema rapidinho.,positivo,entrega,negativo,False
+183,Esperava mais do site.,negativo,site,neutro,False
+187,"A entrega foi horrível, não recomendo.",negativo,entrega,neutro,False
+188,O site resolveu meu problema rapidinho.,positivo,site,negativo,False
+189,"Já foi ótimo, hoje a qualidade do produto está uma bagunça.",negativo,qualidade,neutro,False
+193,"Achei que ia ser ruim, mas o preço foi show.",positivo,preço,neutro,False
+194,O preço não é nada bom.,negativo,preço,neutro,False
+198,"Achei que ia ser ruim, mas o atendimento foi show.",positivo,atendimento,neutro,False
+201,A qualidade do produto não é nada bom.,negativo,qualidade,neutro,False
+202,O site não é nada bom.,negativo,site,neutro,False
+206,"O atendimento foi horrível, não recomendo.",negativo,atendimento,neutro,False
+213,"Achei que ia ser ruim, mas a qualidade do produto foi show.",positivo,qualidade,neutro,False
+222,Não tenho do que reclamar do preço.,positivo,preço,neutro,False
+229,"Achei que ia ser ruim, mas a qualidade do produto foi show.",positivo,qualidade,neutro,False
+239,"Já foi ótimo, hoje o preço está uma bagunça.",negativo,preço,neutro,False
+240,Não gostei do preço.,negativo,preço,positivo,False
+241,O atendimento resolveu meu problema rapidinho.,positivo,atendimento,negativo,False
+242,O atendimento não é nada bom.,negativo,atendimento,neutro,False
+246,Não tenho do que reclamar do site.,positivo,site,neutro,False
+247,"Já foi ótimo, hoje o preço está uma bagunça.",negativo,preço,neutro,False
+250,"O atendimento foi horrível, não recomendo.",negativo,atendimento,neutro,False
+251,O atendimento não é nada bom.,negativo,atendimento,neutro,False
+254,A entrega não é nada bom.,negativo,entrega,neutro,False
+259,Não tenho do que reclamar do preço.,positivo,preço,neutro,False
+262,"Achei que ia ser ruim, mas o preço foi show.",positivo,preço,neutro,False
+270,"A qualidade do produto foi horrível, não recomendo.",negativo,qualidade,neutro,False
+272,O preço não é nada bom.,negativo,preço,neutro,False
+274,Não gostei do atendimento.,negativo,atendimento,positivo,False
+276,Não gostei da entrega.,negativo,entrega,positivo,False
+277,"Já foi ótimo, hoje a entrega está uma bagunça.",negativo,entrega,neutro,False
+281,A qualidade do produto resolveu meu problema rapidinho.,positivo,qualidade,negativo,False
+283,Não tenho do que reclamar da entrega.,positivo,entrega,neutro,False
+293,"Já foi ótimo, hoje a qualidade do produto está uma bagunça.",negativo,qualidade,neutro,False
